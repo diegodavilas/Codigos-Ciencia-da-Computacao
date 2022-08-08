@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/home/diego/Documentos/IFMA/Ciência da computação/1 período/Algorítmo e Técnica de Programação/Códigos em C",
+      "environment": [],
+      "program": "/home/diego/Documentos/IFMA/Ciência da computação/1 período/Algorítmo e Técnica de Programação/Códigos em C/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "externalConsole": false
+    }
+  ]
+}
